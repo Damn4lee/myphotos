@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-11-13T12:29:52.933Z",
+  "totalCount": 1,
+  "items": [
+    {
+      "id": "photo-1794572989254-pjb3",
+      "title": "Magnum Photos  Trent Parke",
+      "subject": "nature",
+      "compositionTags": [
+        "大面积留白"
+      ],
+      "lightingTags": [
+        "柔光漫射"
+      ],
+      "toneTags": [
+        "复古胶片暖调"
+      ],
+      "note": "",
+      "width": 1466,
+      "height": 2200,
+      "aspectRatio": 0.666,
+      "sizeKB": 99,
+      "originalSizeKB": 672,
+      "palette": [
+        "#0b0100",
+        "#4f1501",
+        "#902a01",
+        "#cc4b01",
+        "#fffffe"
+      ],
+      "colorFamilies": [
+        "monochrome",
+        "red-orange"
+      ],
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Damn4lee/myphotos@main/photos/2026-11/photo-1794572989254-pjb3.webp",
+      "githubPath": "photos/2026-11/photo-1794572989254-pjb3.webp",
+      "githubSha": "aa3c9f32026fd051b5b73fdf83a6baec489f62b2",
+      "createdAt": "2026-11-13T12:29:52.310Z"
+    }
+  ]
+}
